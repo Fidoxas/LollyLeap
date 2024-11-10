@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b8k6rlt5puo0b"
+path="res://.godot/imported/New night loop.wav-8f4a7ae5cb66c55570b5109b1d1be27b.sample"
+
+[deps]
+
+source_file="res://Lolly Leap/Assets/Day and Night game music/Loop tracks wav/New night loop.wav"
+dest_files=["res://.godot/imported/New night loop.wav-8f4a7ae5cb66c55570b5109b1d1be27b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

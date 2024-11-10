@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bef816092558bcb48a548d72d7fd503f, type: 3}
+  m_Name: CharacterDataBase
+  m_EditorClassIdentifier: 
+  character:
+  - locked: 0
+    characterName: Frox
+    characterLockDescription: 
+    characterDescription: Hi! I'm Frox - very talented and handsome creature. Will
+      you pick me?
+    lockedSprite: {fileID: 0}
+    characterSprite: {fileID: 21300000, guid: 3a23becdb4f69a94e8e7102179961049, type: 3}
+    characterAnimation: {fileID: 9100000, guid: 600bcff3e2c53e44c88d0ccc8acfe7f4, type: 2}
+  - locked: 1
+    characterName: Lily
+    characterLockDescription: To unlock you must follow us on facebook youtube and
+      TikTok
+    characterDescription: Thank You
+    lockedSprite: {fileID: 21300000, guid: be896abc0f9646540b05d1cf37348e60, type: 3}
+    characterSprite: {fileID: 21300000, guid: 37ece4403b00557489e44a33ae145385, type: 3}
+    characterAnimation: {fileID: 9100000, guid: 05adf2ead3f75954fac5696ad070fa03, type: 2}

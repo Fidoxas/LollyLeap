@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ckr0rafigeych"
+path="res://.godot/imported/Starry night.wav-9424155ce84a9fb0f921b29f4d70ba74.sample"
+
+[deps]
+
+source_file="res://Lolly Leap/Assets/Day and Night game music/Starry night.wav"
+dest_files=["res://.godot/imported/Starry night.wav-9424155ce84a9fb0f921b29f4d70ba74.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

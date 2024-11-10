@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a10fc6120d80e694697cab7ab19a3e4b, type: 3}
+  m_Name: tunnel_level_generator_chooser
+  m_EditorClassIdentifier: 
+  generators:
+  - {fileID: 11400000, guid: d8ad3fe4bda0b4f4d899cdf3ecc957cc, type: 2}
+  modeIdentifier: Tunnel
+  BackGround: {fileID: 21300000, guid: bbe17146d7a1da848b3f5ffdd852f766, type: 3}
+  backgroundGrassColor: {r: 0.43137255, g: 0.5764706, b: 0.3647059, a: 1}

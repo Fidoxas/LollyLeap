@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://byp7x2lralnrf"
+path="res://.godot/imported/_f7bd73f5-00c1-439e-862c-cb15c887512c.jpg-764e9d0fa5485de38f060b56b89775ca.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Lolly Leap/Assets/Art/_f7bd73f5-00c1-439e-862c-cb15c887512c.jpg"
+dest_files=["res://.godot/imported/_f7bd73f5-00c1-439e-862c-cb15c887512c.jpg-764e9d0fa5485de38f060b56b89775ca.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://sprunmjwvj3d"
+path="res://.godot/imported/Good old days loop.wav-7b5b76d175dc1c7731e5a6d046cca8cd.sample"
+
+[deps]
+
+source_file="res://Lolly Leap/Assets/Day and Night game music/Loop tracks wav/Good old days loop.wav"
+dest_files=["res://.godot/imported/Good old days loop.wav-7b5b76d175dc1c7731e5a6d046cca8cd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
